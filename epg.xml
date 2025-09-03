@@ -63281,12 +63281,6 @@ Boomdabash; Alessandra Amoroso - Mambo Salentino</desc>
   <channel id="topchefvipseason4episode38">
     <display-name>Top Chef VIP Season 4, Episode 38</display-name>
   </channel>
-  <channel id="russiafnlyeniseyvsshinnik">
-    <display-name>Russia - FNL : Yenisey vs Shinnik</display-name>
-  </channel>
-  <channel id="asiaafcu23asiancupqualifyingthailandu23vsmongoliau23">
-    <display-name>Asia - AFC U-23 Asian Cup Qualifying : Thailand U23 vs Mongolia U23</display-name>
-  </channel>
   <channel id="worldcupqualifyingseychellesvsgabon">
     <display-name>World Cup Qualifying : Seychelles vs Gabon</display-name>
   </channel>
@@ -63352,9 +63346,6 @@ Boomdabash; Alessandra Amoroso - Mambo Salentino</desc>
   </channel>
   <channel id="uslchampionshiphartfordathleticvsindyeleven">
     <display-name>USL Championship : Hartford Athletic vs Indy Eleven</display-name>
-  </channel>
-  <channel id="1stt20izimbabwevssrilanka">
-    <display-name>1st T20I : Zimbabwe vs Sri Lanka</display-name>
   </channel>
   <channel id="natwestt20blastsurreyvsnorthamptonshire">
     <display-name>NatWest T20 Blast : Surrey vs Northamptonshire</display-name>
@@ -63434,9 +63425,6 @@ Boomdabash; Alessandra Amoroso - Mambo Salentino</desc>
   <channel id="mlbstlouiscardinalsvsoaklandathletics">
     <display-name>MLB : St. Louis Cardinals vs Oakland Athletics</display-name>
   </channel>
-  <channel id="eurobasketestoniavsportugal">
-    <display-name>EuroBasket : Estonia vs Portugal</display-name>
-  </channel>
   <channel id="eurobasketlithuaniavssweden">
     <display-name>EuroBasket : Lithuania vs Sweden</display-name>
   </channel>
@@ -63481,9 +63469,6 @@ Boomdabash; Alessandra Amoroso - Mambo Salentino</desc>
   </channel>
   <channel id="polandsuperligawomenkprgminykobierzycevsksebstartelblag">
     <display-name>Poland Superliga Women : KPR Gminy Kobierzyce vs. KS EB Start Elblag</display-name>
-  </channel>
-  <channel id="liveracingfromaroundtheuk">
-    <display-name>Live racing from around the UK</display-name>
   </channel>
   <channel id="russiamhlspartakmoscowu20vsska1946u20">
     <display-name>Russia MHL : Spartak Moscow U20 vs SKA-1946 U20</display-name>
@@ -63532,26 +63517,6 @@ Boomdabash; Alessandra Amoroso - Mambo Salentino</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Top Chef VIP Season 4, Episode 38</desc>
     <category lang="it">TV Show</category>
-  </programme>
-  <programme start="20250903000000 +0200" stop="20250903140000 +0200" channel="russiafnlyeniseyvsshinnik">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Russia - FNL : Yenisey vs Shinnik.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250903140000 +0200" stop="20250903160000 +0200" channel="russiafnlyeniseyvsshinnik">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Russia - FNL : Yenisey vs Shinnik</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250903000000 +0200" stop="20250903143000 +0200" channel="asiaafcu23asiancupqualifyingthailandu23vsmongoliau23">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Asia - AFC U-23 Asian Cup Qualifying : Thailand U23 vs Mongolia U23.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250903143000 +0200" stop="20250903163000 +0200" channel="asiaafcu23asiancupqualifyingthailandu23vsmongoliau23">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Asia - AFC U-23 Asian Cup Qualifying : Thailand U23 vs Mongolia U23</desc>
-    <category lang="it">Soccer</category>
   </programme>
   <programme start="20250903000000 +0200" stop="20250903150000 +0200" channel="worldcupqualifyingseychellesvsgabon">
     <title lang="it">Inizia alle 15:00.</title>
@@ -63832,16 +63797,6 @@ Boomdabash; Alessandra Amoroso - Mambo Salentino</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">USL Championship : Hartford Athletic vs Indy Eleven</desc>
     <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250903000000 +0200" stop="20250903133000 +0200" channel="1stt20izimbabwevssrilanka">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">1st T20I : Zimbabwe vs Sri Lanka.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250903133000 +0200" stop="20250903153000 +0200" channel="1stt20izimbabwevssrilanka">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">1st T20I : Zimbabwe vs Sri Lanka</desc>
-    <category lang="it">Cricket</category>
   </programme>
   <programme start="20250903000000 +0200" stop="20250903193000 +0200" channel="natwestt20blastsurreyvsnorthamptonshire">
     <title lang="it">Inizia alle 19:30.</title>
@@ -65033,86 +64988,6 @@ Boomdabash; Alessandra Amoroso - Mambo Salentino</desc>
     <desc lang="it">MLB : St. Louis Cardinals vs Oakland Athletics</desc>
     <category lang="it">Baseball</category>
   </programme>
-  <programme start="20250903000000 +0200" stop="20250903134500 +0200" channel="eurobasketestoniavsportugal">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">EuroBasket : Estonia vs Portugal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250903134500 +0200" stop="20250903154500 +0200" channel="eurobasketestoniavsportugal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">EuroBasket : Estonia vs Portugal</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250903000000 +0200" stop="20250903134500 +0200" channel="eurobasketestoniavsportugal">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">EuroBasket : Estonia vs Portugal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250903134500 +0200" stop="20250903154500 +0200" channel="eurobasketestoniavsportugal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">EuroBasket : Estonia vs Portugal</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250903000000 +0200" stop="20250903134500 +0200" channel="eurobasketestoniavsportugal">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">EuroBasket : Estonia vs Portugal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250903134500 +0200" stop="20250903154500 +0200" channel="eurobasketestoniavsportugal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">EuroBasket : Estonia vs Portugal</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250903000000 +0200" stop="20250903134500 +0200" channel="eurobasketestoniavsportugal">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">EuroBasket : Estonia vs Portugal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250903134500 +0200" stop="20250903154500 +0200" channel="eurobasketestoniavsportugal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">EuroBasket : Estonia vs Portugal</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250903000000 +0200" stop="20250903134500 +0200" channel="eurobasketestoniavsportugal">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">EuroBasket : Estonia vs Portugal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250903134500 +0200" stop="20250903154500 +0200" channel="eurobasketestoniavsportugal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">EuroBasket : Estonia vs Portugal</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250903000000 +0200" stop="20250903134500 +0200" channel="eurobasketestoniavsportugal">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">EuroBasket : Estonia vs Portugal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250903134500 +0200" stop="20250903154500 +0200" channel="eurobasketestoniavsportugal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">EuroBasket : Estonia vs Portugal</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250903000000 +0200" stop="20250903134500 +0200" channel="eurobasketestoniavsportugal">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">EuroBasket : Estonia vs Portugal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250903134500 +0200" stop="20250903154500 +0200" channel="eurobasketestoniavsportugal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">EuroBasket : Estonia vs Portugal</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250903000000 +0200" stop="20250903134500 +0200" channel="eurobasketestoniavsportugal">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">EuroBasket : Estonia vs Portugal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250903134500 +0200" stop="20250903154500 +0200" channel="eurobasketestoniavsportugal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">EuroBasket : Estonia vs Portugal</desc>
-    <category lang="it">Basketball</category>
-  </programme>
   <programme start="20250903000000 +0200" stop="20250903153000 +0200" channel="eurobasketlithuaniavssweden">
     <title lang="it">Inizia alle 15:30.</title>
     <desc lang="it">EuroBasket : Lithuania vs Sweden.</desc>
@@ -65722,16 +65597,6 @@ Boomdabash; Alessandra Amoroso - Mambo Salentino</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Poland Superliga Women : KPR Gminy Kobierzyce vs. KS EB Start Elblag</desc>
     <category lang="it">Handball</category>
-  </programme>
-  <programme start="20250903000000 +0200" stop="20250903143000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Live racing from around the UK.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250903143000 +0200" stop="20250903163000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from around the UK</desc>
-    <category lang="it">Horse Racing</category>
   </programme>
   <programme start="20250903000000 +0200" stop="20250903160000 +0200" channel="russiamhlspartakmoscowu20vsska1946u20">
     <title lang="it">Inizia alle 16:00.</title>
