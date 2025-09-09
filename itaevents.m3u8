@@ -126,7 +126,7 @@ http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://the
 http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-419.php
 
 #EXTINF:-1 tvg-id="World Cup Qualifying - South Africa vs Nigeria" tvg-name="18:00 World Cup Qualifying : South Africa vs Nigeria - 09/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport PSL
-http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-419.php
+http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-413.php
 
 #EXTINF:-1 tvg-id="World Cup Qualifying - South Africa vs Nigeria" tvg-name="18:00 World Cup Qualifying : South Africa vs Nigeria - 09/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport Klub HD Croatia
 http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-453.php
