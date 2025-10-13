@@ -354,7 +354,7 @@ http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://the
 http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-599.php
 
 #EXTINF:-1 tvg-id="World Cup Qualifying - Wales vs Belgium" tvg-name="20:45 World Cup Qualifying : Wales vs Belgium - 13/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Polsat Sport 2 Poland
-http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-505.php
+http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-50.php
 
 #EXTINF:-1 tvg-id="World Cup Qualifying - Wales vs Belgium" tvg-name="20:45 World Cup Qualifying : Wales vs Belgium - 13/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sportv2 Brazil
 http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-79.php
