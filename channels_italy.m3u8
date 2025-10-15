@@ -117,9 +117,6 @@ http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vav
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Intrattenimento;Rai Tv",RAI 2 (V)
 http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/246253359a81d94887441&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Intrattenimento;Rai Tv",RAI 3 (V)
-http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/869117599e36bb7de752c&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Intrattenimento;Rai Tv",RAI 4 (V)
 http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -176,9 +173,6 @@ http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vav
 
 #EXTINF:-1 tvg-id="rakutentvshows.it" tvg-name="Rakuten Tv Shows" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN TV SHOWS (V)
 http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Intrattenimento;Discovery",REAL TIME (V)
-http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2251241999722578d55332&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (V)
 http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/22357320045f329c720096&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -260,6 +254,9 @@ http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vav
 
 #EXTINF:-1 tvg-id="skysport.it" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT (V)
 http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
+http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
 http://192.168.1.155:7860/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
